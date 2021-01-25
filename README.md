@@ -1,3 +1,3 @@
 # Demo
 
-This is my first repo and this is just a demo.
+This is my first repo and this is just a demo!
